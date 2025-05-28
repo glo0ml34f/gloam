@@ -2,4 +2,4 @@
 import main
 
 when isMainModule:
-  startGloam()
+  main.startGloam()

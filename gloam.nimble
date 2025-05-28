@@ -11,5 +11,3 @@ bin           = @["gloam"]
 # Dependencies
 
 requires "nim >= 2.2.4"
-# Define where your main module is located
-bin           = @["gloam"]
