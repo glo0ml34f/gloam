@@ -2,3 +2,4 @@
 # Ignore Nim cache and binaries
 nimcache/
 bin/
+gloam

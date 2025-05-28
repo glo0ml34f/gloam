@@ -1,4 +1,4 @@
 # src/ui.nim
-proc initUI() =
+proc initUI*() =
   echo "Initializing TUI..."
 
